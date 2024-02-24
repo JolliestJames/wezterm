@@ -69,9 +69,10 @@ end
 local act = w.action
 
 config.default_prog = { 'PowerShell.exe', '-NoLogo' }
-config.color_scheme = 'Dracula'
+config.color_scheme = 'rose-pine'
 config.enable_tab_bar = false
 config.font = w.font 'Cascadia Code'
+config.font_size = 18
 config.keys = {
   {
     key = 't',
