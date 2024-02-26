@@ -69,7 +69,7 @@ end
 local act = w.action
 
 config.default_prog = { 'PowerShell.exe', '-NoLogo' }
-config.color_scheme = 'rose-pine'
+config.color_scheme = 'GruvboxDarkHard'
 config.enable_tab_bar = false
 config.font = w.font 'Cascadia Code'
 config.font_size = 18
